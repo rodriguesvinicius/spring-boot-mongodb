@@ -92,7 +92,7 @@ mvn spring-boot:run
 
 ## 📺 Tutorial em vídeo
 Este repositório faz parte do vídeo publicado no canal **Eversingledev**:  
-👉 [Assista aqui](https://youtube.com) *(adicione o link do vídeo depois que publicar)*  
+👉 [Assista aqui](https://www.youtube.com/watch?v=3pBDxUpXvAk) *(adicione o link do vídeo depois que publicar)*  
 
 ---
 
