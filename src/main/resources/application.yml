@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: appconnectionmongodb
+  data:
+    mongodb:
+      uri: "seu cluster"
+      database: "seu banco"
